@@ -1,24 +1,24 @@
 # HTMLPurifier for Laravel 5/6/7/8
 
-[![Build Status](https://travis-ci.org/mewebstudio/Purifier.svg?branch=master)](https://travis-ci.org/github/mewebstudio/Purifier)
-[![codecov](https://codecov.io/gh/mewebstudio/Purifier/branch/master/graph/badge.svg)](https://codecov.io/gh/mewebstudio/Purifier)
-[![Latest Stable Version](https://poser.pugx.org/mews/Purifier/v/stable.svg)](https://packagist.org/packages/mews/Purifier)
-[![Latest Unstable Version](https://poser.pugx.org/mews/Purifier/v/unstable.svg)](https://packagist.org/packages/mews/Purifier)
-[![License](https://poser.pugx.org/mews/Purifier/license.svg)](https://packagist.org/packages/mews/Purifier)
-[![Total Downloads](https://poser.pugx.org/mews/Purifier/downloads.svg)](https://packagist.org/packages/mews/Purifier)
+[![Build Status](https://travis-ci.org/bumbummen99/Purifier.svg?branch=master)](https://travis-ci.org/github/bumbummen99/Purifier)
+[![codecov](https://codecov.io/gh/bumbummen99/Purifier/branch/master/graph/badge.svg)](https://codecov.io/gh/bumbummen99/Purifier)
+[![Latest Stable Version](https://poser.pugx.org/skyraptor/purifier/v/stable.svg)](https://packagist.org/packages/skyraptor/purifier)
+[![Latest Unstable Version](https://poser.pugx.org/skyraptor/purifier/v/unstable.svg)](https://packagist.org/packages/skyraptor/purifier)
+[![License](https://poser.pugx.org/skyraptor/purifier/license.svg)](https://packagist.org/packages/skyraptor/purifier)
+[![Total Downloads](https://poser.pugx.org/skyraptor/purifier/downloads.svg)](https://packagist.org/packages/skyraptor/purifier)
 
 A simple [Laravel 5 & 6](http://www.laravel.com/) service provider for including the [HTMLPurifier for Laravel](https://github.com/mewebstudio/purifier).
 
 for Laravel 4 [HTMLPurifier for Laravel 4](https://github.com/mewebstudio/Purifier/tree/master-l4)
 
 This package can be installed via [Composer](http://getcomposer.org) by 
-requiring the `mews/purifier` package in your project's `composer.json`:
+requiring the `skyraptor/purifier` package in your project's `composer.json`:
 
 ```json
 {
     "require": {
         "laravel/framework": "~5.0",
-        "mews/purifier": "~3.0",
+        "skyraptor/purifier": "~3.0",
     }
 }
 ```
@@ -27,7 +27,7 @@ or
 
 Require this package with composer:
 ```
-composer require mews/purifier
+composer require skyraptor/purifier
 ```
 
 Update your packages with `composer update` or install with `composer install`.
